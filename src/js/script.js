@@ -120,6 +120,8 @@ switch(times){
 }
 
 // condicional ternaria
+
+// ?=if    :=else
 let numero =100;
 let resultado = numero ==100 ? "Certo":"Errado";
 console.log(resultado);
